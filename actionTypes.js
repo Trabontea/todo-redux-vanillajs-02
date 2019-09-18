@@ -1,0 +1,9 @@
+const types = {
+	ADD_TODO: 'ADD_TODO',
+  DELETE_TODO: 'DELETE_TODO',
+  TOGGLE_DONE: 'TOGGLE_DONE',
+  CLEAR_TODOS: 'CLEAR_TODOS',
+  TOGGLE_COMPLETED: 'TOGGLE_COMPLETED'
+};
+
+export default types;
